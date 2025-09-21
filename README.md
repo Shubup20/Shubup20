@@ -8,14 +8,12 @@
 - 🌱 I’m learning **DSA, React, Node.js, and Prisma**
 - 🎓 B.Tech in CSE (AKTU 2024) | Diploma (UPBTE 2019)
 - 💡 Exploring **Backend Development, APIs, and OpenAI Integrations**
-- 📫 Reach me: **shubhamchauhanpoly@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/shubup20](https://www.linkedin.com/in/shubup20)
 
 ---
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,core java,react,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
 </p>
 
 ---
@@ -30,16 +28,14 @@
 ---
 
 ### 📌 Featured Projects
-- 🔹 [Portfolio Website](https://github.com/Shubup20) – Personal developer portfolio
-- 🔹 [Chat App](https://github.com/Shubup20) – Real-time chat with React + Node.js + Socket.IO
-- 🔹 [Task Tracker](https://github.com/Shubup20) – Full-stack task management app with JWT auth
-- 🔹 [World Atlas](https://github.com/Shubup20) – React app with Axios API integration
+- 🔹 [Portfolio Website](https://github.com/Shubup20/myPortfolio) – Personal developer portfolio
+- 🔹 [World Atlas](https://world-atlasapp.netlify.app/) – React app with Axios API integration
 
 ---
 
 ### 🤝 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/shubup20"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href=" https://www.linkedin.com/in/shubup20"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:shubhamchauhanpoly@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Shubup20"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
