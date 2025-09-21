@@ -5,15 +5,15 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Full-Stack Projects** (Portfolio, Chat App, Task Tracker, World Atlas)
-- 🌱 I’m learning **DSA, React, Node.js, and Prisma**
+- 🌱 I’m learning **DSA,CoreJava,Javascript, React, Node.js,Prisma,Expressjs**
 - 🎓 B.Tech in CSE (AKTU 2024) | Diploma (UPBTE 2019)
-- 💡 Exploring **Backend Development, APIs, and OpenAI Integrations**
+- 💡 Exploring **Backend Development, APIs, and Frontend Development**
 
 ---
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,core java,react,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,core java,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman,vite" />
 </p>
 
 ---
@@ -23,10 +23,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shubup20&show_icons=true&theme=radical" alt="Shubham's GitHub stats" />    
 </p>
 
+---
+
+### 📊 GitHub Stats
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubup20&theme=radical" alt="GitHub Streak" />  
   </p>
 
+---
+
+### 📊 GitHub Stats
   <p align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubup20&layout=compact&theme=radical" alt="Top Langs" />  
   </p>
