@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+# 👨‍💻 About Me  
 - 🔭 I’m currently working on **Full-Stack Projects**  
 - 🌱 I’m learning **DSA, Core Java, JavaScript, React, Node.js, Prisma, Express.js**  
 - 🎓 **B.Tech in CSE (AKTU 2024) | Diploma (UPBTE 2019)**  
@@ -44,7 +44,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+### 🌐 Connect with Me  
 
 <p align="center">
   <a href="mailto:shubhamchauhanpoly@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
