@@ -1,10 +1,3 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src="https://i.ibb.co/4T8k8gM/banner.png" alt="Shubham Chauhan Banner" />
-</p>
-
----
-
 # 👨‍💻 About Me  
 - 🔭 I’m currently working on **Full-Stack Projects**  
 - 🌱 I’m learning **DSA, Core Java, JavaScript, React, Node.js, Prisma, Express.js**  
