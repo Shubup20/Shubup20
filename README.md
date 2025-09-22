@@ -1,15 +1,13 @@
+
 # 👨‍💻 About Me  
 - 🔭 I’m currently working on **Full-Stack Projects**  
-- 🌱 I’m learning **DSA, Core Java, JavaScript, React, Node.js, Prisma, Express.js**  
+- 🌱 I’m learning **DSA, Core Java, JavaScript, React, Node.js, Prisma, Express.js, Mongoose, MongoDB, MySQL** 
 - 🎓 **B.Tech in CSE (AKTU 2024) | Diploma (UPBTE 2019)**  
 - 💡 Exploring **Backend Development, APIs, and Frontend Development**  
 
 ---
 
-<h1 align="center">Hi 👋, I'm Shubham Chauhan</h1>  
-<h3 align="center">🚀 Full-Stack Developer | 💻 Passionate about Web Development | 📚 Lifelong Learner</h3>  
 
----
 
 ## 🛠️ Technology Stack  
 
@@ -29,11 +27,21 @@
 ---
 
 ## 📊 GitHub Stats  
+  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubup20&show_icons=true&theme=tokyonight" alt="Shubham's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubup20&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubup20&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Stats" height="180"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Shubup20&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Streak" height="180"/>
 </p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubup20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
 
 ---
 
